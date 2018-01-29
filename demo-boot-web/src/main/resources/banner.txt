@@ -1,0 +1,7 @@
+============================================
+
+Application Title : Demo Spring Boot Rest
+Version : 0.0.1-SNAPSHOT
+Spring boot version : ${spring-boot.version}
+
+============================================

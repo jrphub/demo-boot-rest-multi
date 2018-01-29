@@ -1,0 +1,11 @@
+.project
+.settings/
+./demo-boot-web/.classpath
+./demo-boot-web/.project
+./demo-boot-web/.settings/
+./demo-boot-web/target
+./demo-boot-web/logs
+./demo-boot-rest-basic/.classpath
+./demo-boot-rest-basic/.settings/
+./demo-boot-rest-basic/.project
+./demo-boot-rest-basic/target
